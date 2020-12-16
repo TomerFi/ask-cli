@@ -75,6 +75,7 @@ process.env.ASK_SHARE_USAGE = false;
     '@test/unit/commands/util/upgrade-project/helper-test',
     '@test/unit/commands/util/upgrade-project/hosted-skill-helper-test',
     // clients
+    '@test/unit/clients/ask-smapi-client-test',
     '@test/unit/clients/http-client-test',
     '@test/unit/clients/metric-client-test',
     '@test/unit/clients/smapi-client-test',
