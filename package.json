@@ -52,6 +52,7 @@
     "date-fns": "^2.7.0",
     "folder-hash": "^3.0.0",
     "fs-extra": "^2.1.0",
+    "https-proxy-agent": "^5.0.0",
     "inquirer": "^6.2.0",
     "js-yaml": "^3.13.1",
     "jsonfile": "^2.4.0",
